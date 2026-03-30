@@ -2,5 +2,12 @@
     <string name="app_name">LAB06</string>
     <string name="Start_Service">Start Service</string>
     <string name="Stop_Service">Stop Service</string>
+    <string name="Bind_Service">Bind Service</string>
+    <string name="Unbind_Service">Unbind Service</string>
+    <string name="Get_Number">Get Number</string>
+    <string name="Result">Result</string>
+    <string name="random_number">Random Number: %1$d</string>
+    <string name="service_not_bound">Service not bound</string>
+
 
 </resources>
