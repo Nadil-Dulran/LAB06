@@ -20,7 +20,7 @@ class MyStartedService : Service() {
 
         scope.launch {
             while (isActive) {
-                delay(5000L)
+                delay(5000)
                 withContext(Dispatchers.Main) {
                     Toast.makeText(applicationContext, "Service Running", Toast.LENGTH_SHORT).show()
                 }
